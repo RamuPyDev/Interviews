@@ -30,9 +30,3 @@ https://www.sqlitetutorial.net/sqlite-sample-database/
 
 https://sqliteonline.com/
 
-
-
-over 10 years of experience in software development
-Strong development and test development experience using Python
-Proficient in devops operations using containerization (Docker), source code management(GIT) and CICD process(Jenkins)
-Posses strong problem analysis skills, with ability to quickly master new concepts , applications, new technologies and an effective team player
