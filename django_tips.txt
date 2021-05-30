@@ -1,0 +1,38 @@
+https://docs.djangoproject.com/en/3.2/topics/settings/
+set DJANGO_SETTINGS_MODULE=mysite.settings
+echo %DJANGO_SETTINGS_MODULE%
+
+
+pip install django-configurations  #third party lib
+
+
+django-admin startproject --template=https://github.com/Mischback/django-project-skeleton/archive/master.zip [projectname]
+
+
+shell_plus
+
+
+C:\\Users\\india\\Downloads\\chinook
+
+pip install psycopg2
+
+https://www.sqlitetutorial.net/sqlite-sample-database/
+.import c:\\Users\\India\\Downloads\\chinook\\customers.csv chinook_customers
+.import c:\\Users\\India\\Downloads\\chinook\\employees.csv chinook_employees
+.import c:\\Users\\India\\Downloads\\chinook\\geners.csv chinook_geners
+.import c:\\Users\\India\\Downloads\\chinook\\invoices.csv chinook_invoices
+.import c:\\Users\\India\\Downloads\\chinook\\invouce_items.csv chinook_invoice_items
+.import c:\\Users\\India\\Downloads\\chinook\\media_types.csv chinook_media_types
+.import c:\\Users\\India\\Downloads\\chinook\\playlist_track.csv chinook_playlist_track
+.import c:\\Users\\India\\Downloads\\chinook\\playlists.csv chinook_playlists
+.import c:\\Users\\India\\Downloads\\chinook\\tracks.csv chinook_tracks
+
+
+https://sqliteonline.com/
+
+
+
+over 10 years of experience in software development
+Strong development and test development experience using Python
+Proficient in devops operations using containerization (Docker), source code management(GIT) and CICD process(Jenkins)
+Posses strong problem analysis skills, with ability to quickly master new concepts , applications, new technologies and an effective team player
